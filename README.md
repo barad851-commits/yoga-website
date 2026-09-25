@@ -19,7 +19,8 @@ The project includes yoga-related images and different sections designed using C
 - CSS Positioning
 - Images
 - Background Images
--And other HTML & CSS concepts
+- And other HTML & CSS concepts
+
 
 🎥 Live Demo
 
