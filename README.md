@@ -18,6 +18,8 @@ The project includes yoga-related images and different sections designed using C
 - CSS Hover Effects
 - CSS Positioning
 - Images
+- Background Images
+-And other HTML & CSS concepts
 
 🎥 Live Demo
 
